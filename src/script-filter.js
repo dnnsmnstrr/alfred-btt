@@ -1,11 +1,12 @@
 function run(argv) {
   var query = argv[0];
-
+  const DEBUG = false
   try {
     let BetterTouchTool = Application('BetterTouchTool');
     let namedTriggerId = 643
-    let allNamedTriggersJSONString = BetterTouchTool.get_triggers({trigger_id: namedTriggerId });
+    let allNamedTriggersJSONString = BetterTouchTool.get_triggers({ trigger_id: namedTriggerId });
     let allTriggers = JSON.parse(allNamedTriggersJSONString);
+	throw new Error('bla')
     const items = allTriggers.map(trigger => {
       const triggerUrl = `btt://trigger_named/?trigger_name=${encodeURIComponent(trigger.BTTTriggerName)}`
       return {
@@ -24,6 +25,7 @@ function run(argv) {
 
     return JSON.stringify({ items });
   } catch (err) {
-    return JSON.stringify({ items: [] })
+    const items = [{ title: 'Error', subtitle: err.message }]
+    return JSON.stringify({ items: DEBUG ? items : [] })
   }
 }
