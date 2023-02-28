@@ -1,4 +1,4 @@
-NOAction,BTTPredefinedActionNOAction,-1
+No Action,BTTPredefinedActionNOAction,-1
 Apple Default,BTTPredefinedActionAppleDefault,0
 Middle Click,BTTPredefinedActionMiddleClick,1
 CMD Click,BTTPredefinedActionCMDClick,2
@@ -16,10 +16,10 @@ Sleep Display,BTTPredefinedActionSleepDisplay,13
 Sleep Computer,BTTPredefinedActionSleepComputer,14
 Logout,BTTPredefinedActionLogout,15
 Hidden Files,BTTPredefinedActionHiddenFiles,16
-Move WindowLeft,BTTPredefinedActionMoveWindowLeft,17
-Move WindowRight,BTTPredefinedActionMoveWindowRight,18
-Max WindowLeft,BTTPredefinedActionMaxWindowLeft,19
-Max WindowRight,BTTPredefinedActionMaxWindowRight,20
+Move Window Left,BTTPredefinedActionMoveWindowLeft,17
+Move Window Right,BTTPredefinedActionMoveWindowRight,18
+Max Window Left,BTTPredefinedActionMaxWindowLeft,19
+Max Window Right,BTTPredefinedActionMaxWindowRight,20
 Max Window,BTTPredefinedActionMaxWindow,21
 Mute,BTTPredefinedActionMute,22
 Play,BTTPredefinedActionPlay,23
@@ -176,7 +176,7 @@ Start Siri,BTTPredefinedActionStartSiri,173
 Resize To Left Two Third,BTTPredefinedActionResizeToLeftTwoThird,174
 Resize To Right Two Third,BTTPredefinedActionResizeToRightTwoThird,175
 Open Selected Folder With App,BTTPredefinedActionOpenSelectedFolderWithApp,176
-Show/Hide SpecificApp,BTTPredefinedActionShowHideSpecificApp,177
+Show / Hide Specific App,BTTPredefinedActionShowHideSpecificApp,177
 Mod Shift Down,BTTPredefinedActionModShiftDown,178
 Mod Shift Up,BTTPredefinedActionModShiftUp,179
 Mod FN Down,BTTPredefinedActionModFNDown,180
@@ -254,7 +254,7 @@ Run JavaScript On Main Thread String,BTTPredefinedActionRunJavaScriptOnMainThrea
 Show HUD,BTTPredefinedActionShowHUD,254
 Haptic Feedback,BTTPredefinedActionHapticFeedback,255
 Save Selected Text To Variable,BTTPredefinedActionSaveSelectedTextToVariable,256
-Toggle TrueTone,BTTPredefinedActionToggleTrueTone,257
+Toggle True Tone,BTTPredefinedActionToggleTrueTone,257
 Toggle Preset,BTTPredefinedActionTogglePreset,258
 Brightness Up Little,BTTPredefinedActionBrightnessUpLittle,259
 Brightness Down Little,BTTPredefinedActionBrightnessDownLittle,260
