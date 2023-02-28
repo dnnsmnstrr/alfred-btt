@@ -128,7 +128,7 @@ Show Menubar In ContextMenu,BTTPredefinedActionShowMenubarInContextMenu,125
 Toggle Mouse Speed,BTTPredefinedActionToggleMouseSpeed,126
 Airplay Mirroring,BTTPredefinedActionAirplayMirroring,127
 Send Shortcut To Specific App,BTTPredefinedActionSendShortcutToSpecificApp,128
-ActionDelay,BTTPredefinedActionDelay,129
+Action Delay,BTTPredefinedActionDelay,129
 F13,BTTPredefinedActionF13,130
 F14,BTTPredefinedActionF14,131
 F15,BTTPredefinedActionF15,132
