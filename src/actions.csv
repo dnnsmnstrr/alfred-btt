@@ -1,261 +1,281 @@
-NOAction,,-1
-AppleDefault,,0
-MiddleClick,,1
-CMDClick,,2
-LeftClick,,3
-RightClick,,4
-Expose,,5
-AppExpose,,6
-Spaces,,7
-Dashboard,,8
-LoginScreen,,9
-Finder,,10
-ZoomIn,,11
-ZoomOut,,12
-SleepDisplay,,13
-SleepComputer,,14
-Logout,,15
-HiddenFiles,,16
-MoveWindowLeft,,17
-MoveWindowRight,,18
-MaxWindowLeft,,19
-MaxWindowRight,,20
-MaxWindow,,21
-Mute,","
-Play,","
-VolumeUp,,24
-VolumeDown,,25
-Backwards,,26
-Forward,,27
-BrightnessUp,,28
-BrightnessDown,,29
-Eject,","
-IlluminationUp,,31
-IlluminationDown,,32
-F1,", "type:", "type:", "type:", "type:", "type:", "type:", "type:", "type:", "type:0", "type:1", "type:2", "type:sktop,45
-AppSwitcher,,46
-NextMonitor,,47
-MaxNextMonitor,,48
-LaunchApp,,49
-HideAllWindows,,50
-PageForward,,51
-PageBackward,,52
-HideAllButActive,,53
-DoubleClick,,54
-RestartBTT,,55
-QuitBTT,,56
-OpenBTTPreferences,,57
-OneFingerSearch,,58
-OpenURL,,59
-PageUp,,60
-PageDown,,61
-Home,","
-End,", "type:rwardDelete,64
-StartDrag,,65
-StopDrag,,66
-MoveTablet,,67
-ToggleMagicMouseTouchpadMode,,68
-StartMovingWindows,,69
-StopMovingWindows,,70
-StartResizingWindows,,71
-StopResizingWindows,,72
-ToggleResizingWindows,,73
-ToggleMovingWindows,,74
-BeginGesture,,75
-EndGesture,,76
-SwipeLeft,,77
-SwipeRight,,78
-SwipeUp,,79
-SwipeDown,,80
-RotateLeft,,81
-RotateRight,,82
-EndGestureImmediately,,83
-RestoreOldWindowSize,,84
-CreateNewFile,,85
-FreeMenubar,,86
-CtrlClick,,87
-AltClick,,88
-ShiftClick,,89
-ResizeToTopLeftQuarter,,90
-ResizeToBottomLeftQuarter,,91
-ResizeToTopRightQuarter,,92
-ResizeToBottomRightQuarter,,93
-ShowColorPicker,,94
-MoveBottomHalf,,95
-MoveTopHalf,,96
-Center,,97
-CenterNext,,98
-WindowSwitcher,,99
-WindowSwitcherAllApps,,100
-ToggleBTT,,101
-CloseWindowUnderCursor,,102
-ExposeAndSort,,103
-TerminateBTTImmediately,,104
-ShowBTTPreferences,,105
-MinimizeWindowUnderCursor,,106
-ZoomWindowUnderCursor,,107
-ResizeToLeftThird,,108
-ResizeToMiddleThird,,109
-ResizeToRightThird,,110
-CMDShiftClick,,111
-FullScreen,,112
-SwitchSpaceLeft,,113
-SwitchSpaceRight,,114
-Launchpad,,115
-Lookup,,116
-SmartZoom,,117
-PasteString,,118
-CustomClick,,119
-BrightnessUpOnExternal,,120
-BrightnessDownOnExternal,,121
-NotificationCenter,,122
-ToggleCursorSize,,123
-TriggerMenuItem,,124
-ShowMenubarInContextMenu,,125
-ToggleMouseSpeed,,126
-AirplayMirroring,,127
-SendShortcutToSpecificApp,,128
-Delay,","9
-F13,", "type: 4", "type: 5", "type: 6", "type: 7", "type: 8", "type: stDistributedNotification,136
-TerminalCommand,,137
-AutomatorWorkflow,,138
-SwitchToPreset,,139
-ToggleMouseCursorHidden,,140
-ToggleLeap,,141
-AppSwitcherBackward,,142
-EnabledLeapMouseControl,,143
-DisableGestureRecognition,,144
-DockQuitApp,,145
-DockMinimize,,146
-DockApplicationExpose,,147
-DockSendKeyboardShortcut,,148
-CMDDoubleClick,,149
-IfMouseHoversDockIconEnableIt,,150
-MoveWindowToLeftSpace,,151
-MoveWindowToRightSpace,,152
-ChangeMousePosition,,153
-SaveCurrentMousePosition,,154
-RestoreSavedMousePosition,,155
-EmptyTrash,,156
-OpenFinderSelectionWithApp,,157
-LockScreen,,158
-UnlockScreen,,159
-StartRecordingMouseGesture,,160
-StopRecordingMouseGesture,,161
-TriggerContextMenuItem,,162
-ElCapitanSplitScreenLeft,,163
-ElCapitanSplitScreenRight,,164
-MissionControlAndShowDesktopPreview,,165
-ToggleSiriRemoteTouchpadMode,,166
-ShowCharacterPalette,,167
-TriggerSnapArea,,168
-Screenshot,,169
-ScreenshotWindow,,170
-ScreenshotAndEdit,,171
-RunAppleScriptString,,172
-StartSiri,,173
-ResizeToLeftTwoThird,,174
-ResizeToRightTwoThird,,175
-OpenSelectedFolderWithApp,,176
-ShowHideSpecificApp,,177
-ModShiftDown,,178
-ModShiftUp,,179
-ModFNDown,,180
-ModFNUp,,181
-ModCtrlDown,,182
-ModCtrlUp,,183
-ModOptDown,,184
-ModOptUp,,185
-ModCMDDown,,186
-ModCMDUp,,187
-ToggleTouchBar,,188
-ESC,", "type: ggleShowGlobalTouchBar,190
-CloseCurrentTouchBarGrop,,191
-TypeString,,193
-ToggleCapsLock,,194
-RunAppleScriptInBackgroundString,,195
-AddNewSpace,,196
-ToggleDarkMode,,197
-VolumeUpLittle,,198
-VolumeDownLittle,,199
-ToggleDoNotDisturb,,200
-ToggleNightShift,,201
-StartScreenSaver,,202
-ShowClipboardManager,,203
-BringWindowUnderCursorToFront,,204
-OpenTouchBarGroupWithName,,205, "param": "BTTOpenGroupWithName"
-ShellTask,,206
-SwitchToDesktop1,,207
-SwitchToDesktop2,,208
-SwitchToDesktop3,,209
-SwitchToDesktop4,,210
-SwitchToDesktop5,,211
-SwitchToDesktop6,,212
-SwitchToDesktop7,,213
-SwitchToDesktop8,,214
-SwitchToDesktop9,,215
-MoveWindowToDesktop1,,216
-MoveWindowToDesktop2,,217
-MoveWindowToDesktop3,,218
-MoveWindowToDesktop4,,219
-MoveWindowToDesktop5,,220
-MoveWindowToDesktop6,,222
-MoveWindowToDesktop7,,223
-MoveWindowToDesktop8,,224
-MoveWindowToDesktop9,,225
-SwitchToDesktop10,,226
-SwitchToDesktop11,,227
-SwitchToDesktop12,,228
-SwitchToDesktop13,,229
-SwitchToDesktop14,,230
-SwitchToDesktop15,,231
-SwitchToDesktop16,,232
-SwitchToDesktop17,,233
-SwitchToDesktop18,,234
-SwitchToDesktop19,,235
-MoveWindowToDesktop10,,236
-MoveWindowToDesktop11,,237
-MoveWindowToDesktop12,,238
-MoveWindowToDesktop13,,239
-MoveWindowToDesktop14,,240
-MoveWindowToDesktop15,,241
-MoveWindowToDesktop16,,242
-MoveWindowToDesktop17,,243
-MoveWindowToDesktop18,,244
-MoveWindowToDesktop19,,245
-TerminalCommandBlocking,,246
-QuitAppUnderCursor,,247
-TriggerNamedTrigger,,248
-ShowFloatingWebView,,249
-CustomPaste,,250
-CustomMoveResize,,251
-RunJavaScriptInBackgroundString,,252
-RunJavaScriptOnMainThreadString,,253
-ShowHUD,,254
-HapticFeedback,,255
-SaveSelectedTextToVariable,,256
-ToggleTrueTone,,257
-TogglePreset,,258
-BrightnessUpLittle,,259
-BrightnessDownLittle,,260
-BrightnessExternalUpLittle,,261
-BrightnessExternalDownLittle,,262
-TakeScreenshotOrVideo,,263
-KeyboardShortcut,,264
-HideMenubarExtras,,265
-ToggleMirroring,,266
-MoveAllWindowsToMouseDisplay,,267
-RestoreSavedWindowLayout,,268
-SaveCurrentWindowLayout,,269
-RestoreCurrentWindowLayout,,270
-ConnectMIDIDevice,,271
-Scroll,,272
-ShowCustomContextMenu,,273
-ConnectBluetoothDevice,,274
-DisconnectBluetoothDevice,,275
-ToggleBluetoothDevice,,276
-EnableBluetooth,,277
-DisableBluetooth,,278
-ToggleBluetooth,,279
-Plugin,,280
-RunCoreJavaScript,,28
+NOAction,BTTPredefinedActionNOAction,-1
+Apple Default,BTTPredefinedActionAppleDefault,0
+Middle Click,BTTPredefinedActionMiddleClick,1
+CMD Click,BTTPredefinedActionCMDClick,2
+Left Click,BTTPredefinedActionLeftClick,3
+Right Click,BTTPredefinedActionRightClick,4
+Expose,BTTPredefinedActionExpose,5
+App Expose,BTTPredefinedActionAppExpose,6
+Spaces,BTTPredefinedActionSpaces,7
+Dashboard,BTTPredefinedActionDashboard,8
+Login Screen,BTTPredefinedActionLoginScreen,9
+Finder,BTTPredefinedActionFinder,10
+Zoom In,BTTPredefinedActionZoomIn,11
+Zoom Out,BTTPredefinedActionZoomOut,12
+Sleep Display,BTTPredefinedActionSleepDisplay,13
+Sleep Computer,BTTPredefinedActionSleepComputer,14
+Logout,BTTPredefinedActionLogout,15
+Hidden Files,BTTPredefinedActionHiddenFiles,16
+Move WindowLeft,BTTPredefinedActionMoveWindowLeft,17
+Move WindowRight,BTTPredefinedActionMoveWindowRight,18
+Max WindowLeft,BTTPredefinedActionMaxWindowLeft,19
+Max WindowRight,BTTPredefinedActionMaxWindowRight,20
+Max Window,BTTPredefinedActionMaxWindow,21
+Mute,BTTPredefinedActionMute,22
+Play,BTTPredefinedActionPlay,23
+Volume Up,BTTPredefinedActionVolumeUp,24
+Volume Down,BTTPredefinedActionVolumeDown,25
+Backwards,BTTPredefinedActionBackwards,26
+Forward,BTTPredefinedActionForward,27
+Brightness Up,BTTPredefinedActionBrightnessUp,28
+Brightness Down,BTTPredefinedActionBrightnessDown,29
+Eject,BTTPredefinedActionEject,30
+Illumination Up,BTTPredefinedActionIlluminationUp,31
+Illumination Down,BTTPredefinedActionIlluminationDown,32
+F1,BTTPredefinedActionF1,33
+F2,BTTPredefinedActionF2,34
+F3,BTTPredefinedActionF3,35
+F4,BTTPredefinedActionF4,36
+F5,BTTPredefinedActionF5,37
+F6,BTTPredefinedActionF6,38
+F7,BTTPredefinedActionF7,39
+F8,BTTPredefinedActionF8,40
+F9,BTTPredefinedActionF9,41
+F10,BTTPredefinedActionF10,42
+F11,BTTPredefinedActionF11,43
+F12,BTTPredefinedActionF12,44
+Desktop,BTTPredefinedActionDesktop,45
+App Switcher,BTTPredefinedActionAppSwitcher,46
+Next Monitor,BTTPredefinedActionNextMonitor,47
+Max Next Monitor,BTTPredefinedActionMaxNextMonitor,48
+Launch App,BTTPredefinedActionLaunchApp,49
+Hide All Windows,BTTPredefinedActionHideAllWindows,50
+Page Forward,BTTPredefinedActionPageForward,51
+Page Backward,BTTPredefinedActionPageBackward,52
+Hide All But Active,BTTPredefinedActionHideAllButActive,53
+Double Click,BTTPredefinedActionDoubleClick,54
+Restart BTT,BTTPredefinedActionRestartBTT,55
+Quit BTT,BTTPredefinedActionQuitBTT,56
+Open BTT Preferences,BTTPredefinedActionOpenBTTPreferences,57
+One Finger Search,BTTPredefinedActionOneFingerSearch,58
+Open URL,BTTPredefinedActionOpenURL,59
+Page Up,BTTPredefinedActionPageUp,60
+Page Down,BTTPredefinedActionPageDown,61
+Home,BTTPredefinedActionHome,62
+End,BTTPredefinedActionEnd,63
+Forward Delete,BTTPredefinedActionForwardDelete,64
+Start Drag,BTTPredefinedActionStartDrag,65
+Stop Drag,BTTPredefinedActionStopDrag,66
+Move Tablet,BTTPredefinedActionMoveTablet,67
+Toggle Magic Mouse Touchpad Mode,BTTPredefinedActionToggleMagicMouseTouchpadMode,68
+Start Moving Windows,BTTPredefinedActionStartMovingWindows,69
+Stop Moving Windows,BTTPredefinedActionStopMovingWindows,70
+Start Resizing Windows,BTTPredefinedActionStartResizingWindows,71
+Stop Resizing Windows,BTTPredefinedActionStopResizingWindows,72
+Toggle Resizing Windows,BTTPredefinedActionToggleResizingWindows,73
+Toggle Moving Windows,BTTPredefinedActionToggleMovingWindows,74
+Begin Gesture,BTTPredefinedActionBeginGesture,75
+End Gesture,BTTPredefinedActionEndGesture,76
+Swipe Left,BTTPredefinedActionSwipeLeft,77
+Swipe Right,BTTPredefinedActionSwipeRight,78
+Swipe Up,BTTPredefinedActionSwipeUp,79
+Swipe Down,BTTPredefinedActionSwipeDown,80
+Rotate Left,BTTPredefinedActionRotateLeft,81
+Rotate Right,BTTPredefinedActionRotateRight,82
+End Gesture Immediately,BTTPredefinedActionEndGestureImmediately,83
+Restore Old Window Size,BTTPredefinedActionRestoreOldWindowSize,84
+Create New File,BTTPredefinedActionCreateNewFile,85
+Free Menubar,BTTPredefinedActionFreeMenubar,86
+Ctrl Click,BTTPredefinedActionCtrlClick,87
+Alt Click,BTTPredefinedActionAltClick,88
+Shift Click,BTTPredefinedActionShiftClick,89
+Resize To Top Left Quarter,BTTPredefinedActionResizeToTopLeftQuarter,90
+Resize To Bottom Left Quarter,BTTPredefinedActionResizeToBottomLeftQuarter,91
+Resize To Top Right Quarter,BTTPredefinedActionResizeToTopRightQuarter,92
+Resize To Bottom Right Quarter,BTTPredefinedActionResizeToBottomRightQuarter,93
+Show Color Picker,BTTPredefinedActionShowColorPicker,94
+Move Bottom Half,BTTPredefinedActionMoveBottomHalf,95
+Move Top Half,BTTPredefinedActionMoveTopHalf,96
+Center,BTTPredefinedActionCenter,97
+Center Next,BTTPredefinedActionCenterNext,98
+Window Switcher,BTTPredefinedActionWindowSwitcher,99
+Window Switcher All Apps,BTTPredefinedActionWindowSwitcherAllApps,100
+Toggle BTT,BTTPredefinedActionToggleBTT,101
+Close Window Under Cursor,BTTPredefinedActionCloseWindowUnderCursor,102
+Expose And Sort,BTTPredefinedActionExposeAndSort,103
+Terminate BTT Immediately,BTTPredefinedActionTerminateBTTImmediately,104
+Show BTT Preferences,BTTPredefinedActionShowBTTPreferences,105
+Minimize Window Under Cursor,BTTPredefinedActionMinimizeWindowUnderCursor,106
+Zoom Window Under Cursor,BTTPredefinedActionZoomWindowUnderCursor,107
+Resize To Left Third,BTTPredefinedActionResizeToLeftThird,108
+Resize To Middle Third,BTTPredefinedActionResizeToMiddleThird,109
+Resize To Right Third,BTTPredefinedActionResizeToRightThird,110
+CMD Shift Click,BTTPredefinedActionCMDShiftClick,111
+Full Screen,BTTPredefinedActionFullScreen,112
+Switch Space Left,BTTPredefinedActionSwitchSpaceLeft,113
+Switch Space Right,BTTPredefinedActionSwitchSpaceRight,114
+Launchpad,BTTPredefinedActionLaunchpad,115
+Lookup,BTTPredefinedActionLookup,116
+Smart Zoom,BTTPredefinedActionSmartZoom,117
+Paste String,BTTPredefinedActionPasteString,118
+Custom Click,BTTPredefinedActionCustomClick,119
+Brightness Up On External,BTTPredefinedActionBrightnessUpOnExternal,120
+Brightness Down On External,BTTPredefinedActionBrightnessDownOnExternal,121
+Notification Center,BTTPredefinedActionNotificationCenter,122
+Toggle Cursor Size,BTTPredefinedActionToggleCursorSize,123
+Trigger Menu Item,BTTPredefinedActionTriggerMenuItem,124
+Show Menubar In ContextMenu,BTTPredefinedActionShowMenubarInContextMenu,125
+Toggle Mouse Speed,BTTPredefinedActionToggleMouseSpeed,126
+Airplay Mirroring,BTTPredefinedActionAirplayMirroring,127
+Send Shortcut To Specific App,BTTPredefinedActionSendShortcutToSpecificApp,128
+ActionDelay,BTTPredefinedActionDelay,129
+F13,BTTPredefinedActionF13,130
+F14,BTTPredefinedActionF14,131
+F15,BTTPredefinedActionF15,132
+F16,BTTPredefinedActionF16,133
+F17,BTTPredefinedActionF17,134
+F18,BTTPredefinedActionF18,135
+Post Distributed Notification,BTTPredefinedActionPostDistributedNotification,136
+Terminal Command,BTTPredefinedActionTerminalCommand,137
+Automator Workflow,BTTPredefinedActionAutomatorWorkflow,138
+Switch To Preset,BTTPredefinedActionSwitchToPreset,139
+Toggle Mouse Cursor Hidden,BTTPredefinedActionToggleMouseCursorHidden,140
+Toggle Leap,BTTPredefinedActionToggleLeap,141
+App Switcher Backward,BTTPredefinedActionAppSwitcherBackward,142
+Enabled Leap Mouse Control,BTTPredefinedActionEnabledLeapMouseControl,143
+Disable GestureRecognition,BTTPredefinedActionDisableGestureRecognition,144
+Dock Quit App,BTTPredefinedActionDockQuitApp,145
+Dock Minimize,BTTPredefinedActionDockMinimize,146
+Dock Application Expose,BTTPredefinedActionDockApplicationExpose,147
+Dock Send Keyboard Shortcut,BTTPredefinedActionDockSendKeyboardShortcut,148
+CMD Double Click,BTTPredefinedActionCMDDoubleClick,149
+If Mouse Hovers Dock Icon Enable It,BTTPredefinedActionIfMouseHoversDockIconEnableIt,150
+Move Window To Left Space,BTTPredefinedActionMoveWindowToLeftSpace,151
+Move Window To Right Space,BTTPredefinedActionMoveWindowToRightSpace,152
+Change Mouse Position,BTTPredefinedActionChangeMousePosition,153
+Save Current Mouse Position,BTTPredefinedActionSaveCurrentMousePosition,154
+Restore Saved Mouse Position,BTTPredefinedActionRestoreSavedMousePosition,155
+Empty Trash,BTTPredefinedActionEmptyTrash,156
+Open Finder Selection With App,BTTPredefinedActionOpenFinderSelectionWithApp,157
+Lock Screen,BTTPredefinedActionLockScreen,158
+Unlock Screen,BTTPredefinedActionUnlockScreen,159
+Start Recording Mouse Gesture,BTTPredefinedActionStartRecordingMouseGesture,160
+Stop Recording Mouse Gesture,BTTPredefinedActionStopRecordingMouseGesture,161
+Trigger Context Menu Item,BTTPredefinedActionTriggerContextMenuItem,162
+El Capitan Split Screen Left,BTTPredefinedActionElCapitanSplitScreenLeft,163
+El Capitan Split Screen Right,BTTPredefinedActionElCapitanSplitScreenRight,164
+Mission Control And Show Desktop Preview,BTTPredefinedActionMissionControlAndShowDesktopPreview,165
+Toggle Siri Remote Touchpad Mode,BTTPredefinedActionToggleSiriRemoteTouchpadMode,166
+Show Character Palette,BTTPredefinedActionShowCharacterPalette,167
+Trigger SnapArea,BTTPredefinedActionTriggerSnapArea,168
+Screenshot,BTTPredefinedActionScreenshot,169
+Screenshot Window,BTTPredefinedActionScreenshotWindow,170
+Screenshot And Edit,BTTPredefinedActionScreenshotAndEdit,171
+Run Apple Script String,BTTPredefinedActionRunAppleScriptString,172
+Start Siri,BTTPredefinedActionStartSiri,173
+Resize To Left Two Third,BTTPredefinedActionResizeToLeftTwoThird,174
+Resize To Right Two Third,BTTPredefinedActionResizeToRightTwoThird,175
+Open Selected Folder With App,BTTPredefinedActionOpenSelectedFolderWithApp,176
+Show/Hide SpecificApp,BTTPredefinedActionShowHideSpecificApp,177
+Mod Shift Down,BTTPredefinedActionModShiftDown,178
+Mod Shift Up,BTTPredefinedActionModShiftUp,179
+Mod FN Down,BTTPredefinedActionModFNDown,180
+Mod FN Up,BTTPredefinedActionModFNUp,181
+Mod Ctrl Down,BTTPredefinedActionModCtrlDown,182
+Mod Ctrl Up,BTTPredefinedActionModCtrlUp,183
+Mod Opt Down,BTTPredefinedActionModOptDown,184
+Mod Opt Up,BTTPredefinedActionModOptUp,185
+Mod CMD Down,BTTPredefinedActionModCMDDown,186
+Mod CMD Up,BTTPredefinedActionModCMDUp,187
+Toggle TouchBar,BTTPredefinedActionToggleTouchBar,188
+ESC,BTTPredefinedActionESC,189
+Toggle Show Global TouchBar,BTTPredefinedActionToggleShowGlobalTouchBar,190
+Close Current Touch Bar Group,BTTPredefinedActionCloseCurrentTouchBarGroup,191
+Type String,BTTPredefinedActionTypeString,193
+Toggle Caps Lock,BTTPredefinedActionToggleCapsLock,194
+Run Apple Script In Background String,BTTPredefinedActionRunAppleScriptInBackgroundString,195
+Add New Space,BTTPredefinedActionAddNewSpace,196
+Toggle Dark Mode,BTTPredefinedActionToggleDarkMode,197
+Volume Up Little,BTTPredefinedActionVolumeUpLittle,198
+Volume Down Little,BTTPredefinedActionVolumeDownLittle,199
+Toggle Do Not Disturb,BTTPredefinedActionToggleDoNotDisturb,200
+Toggle Night Shift,BTTPredefinedActionToggleNightShift,201
+Start Screen Saver,BTTPredefinedActionStartScreenSaver,202
+Show Clipboard Manager,BTTPredefinedActionShowClipboardManager,203
+Bring Window Under Cursor To Front,BTTPredefinedActionBringWindowUnderCursorToFront,204
+Open Touch Bar Group With Name,BTTPredefinedActionOpenTouchBarGroupWithName,205
+Shell Task,BTTPredefinedActionShellTask,206
+Switch To Desktop 1,BTTPredefinedActionSwitchToDesktop1,207
+Switch To Desktop 2,BTTPredefinedActionSwitchToDesktop2,208
+Switch To Desktop 3,BTTPredefinedActionSwitchToDesktop3,209
+Switch To Desktop 4,BTTPredefinedActionSwitchToDesktop4,210
+Switch To Desktop 5,BTTPredefinedActionSwitchToDesktop5,211
+Switch To Desktop 6,BTTPredefinedActionSwitchToDesktop6,212
+Switch To Desktop 7,BTTPredefinedActionSwitchToDesktop7,213
+Switch To Desktop 8,BTTPredefinedActionSwitchToDesktop8,214
+Switch To Desktop 9,BTTPredefinedActionSwitchToDesktop9,215
+Move Window To Desktop 1,BTTPredefinedActionMoveWindowToDesktop1,216
+Move Window To Desktop 2,BTTPredefinedActionMoveWindowToDesktop2,217
+Move Window To Desktop 3,BTTPredefinedActionMoveWindowToDesktop3,218
+Move Window To Desktop 4,BTTPredefinedActionMoveWindowToDesktop4,219
+Move Window To Desktop 5,BTTPredefinedActionMoveWindowToDesktop5,220
+Move Window To Desktop 6,BTTPredefinedActionMoveWindowToDesktop6,222
+Move Window To Desktop 7,BTTPredefinedActionMoveWindowToDesktop7,223
+Move Window To Desktop 8,BTTPredefinedActionMoveWindowToDesktop8,224
+Move Window To Desktop 9,BTTPredefinedActionMoveWindowToDesktop9,225
+Switch To Desktop 10,BTTPredefinedActionSwitchToDesktop10,226
+Switch To Desktop 11,BTTPredefinedActionSwitchToDesktop11,227
+Switch To Desktop 12,BTTPredefinedActionSwitchToDesktop12,228
+Switch To Desktop 13,BTTPredefinedActionSwitchToDesktop13,229
+Switch To Desktop 14,BTTPredefinedActionSwitchToDesktop14,230
+Switch To Desktop 15,BTTPredefinedActionSwitchToDesktop15,231
+Switch To Desktop 16,BTTPredefinedActionSwitchToDesktop16,232
+Switch To Desktop 17,BTTPredefinedActionSwitchToDesktop17,233
+Switch To Desktop 18,BTTPredefinedActionSwitchToDesktop18,234
+Switch To Desktop 19,BTTPredefinedActionSwitchToDesktop19,235
+Move Window To Desktop 10,BTTPredefinedActionMoveWindowToDesktop10,236
+Move Window To Desktop 11,BTTPredefinedActionMoveWindowToDesktop11,237
+Move Window To Desktop 12,BTTPredefinedActionMoveWindowToDesktop12,238
+Move Window To Desktop 13,BTTPredefinedActionMoveWindowToDesktop13,239
+Move Window To Desktop 14,BTTPredefinedActionMoveWindowToDesktop14,240
+Move Window To Desktop 15,BTTPredefinedActionMoveWindowToDesktop15,241
+Move Window To Desktop 16,BTTPredefinedActionMoveWindowToDesktop16,242
+Move Window To Desktop 17,BTTPredefinedActionMoveWindowToDesktop17,243
+Move Window To Desktop 18,BTTPredefinedActionMoveWindowToDesktop18,244
+Move Window To Desktop 19,BTTPredefinedActionMoveWindowToDesktop19,245
+Terminal Command Blocking,BTTPredefinedActionTerminalCommandBlocking,246
+Quit App Under Cursor,BTTPredefinedActionQuitAppUnderCursor,247
+Trigger Named Trigger,BTTPredefinedActionTriggerNamedTrigger,248
+Show Floating Web View,BTTPredefinedActionShowFloatingWebView,249
+Custom Paste,BTTPredefinedActionCustomPaste,250
+Custom Move Resize,BTTPredefinedActionCustomMoveResize,251
+Run JavaScript In Background String,BTTPredefinedActionRunJavaScriptInBackgroundString,252
+Run JavaScript On Main Thread String,BTTPredefinedActionRunJavaScriptOnMainThreadString,253
+Show HUD,BTTPredefinedActionShowHUD,254
+Haptic Feedback,BTTPredefinedActionHapticFeedback,255
+Save Selected Text To Variable,BTTPredefinedActionSaveSelectedTextToVariable,256
+Toggle TrueTone,BTTPredefinedActionToggleTrueTone,257
+Toggle Preset,BTTPredefinedActionTogglePreset,258
+Brightness Up Little,BTTPredefinedActionBrightnessUpLittle,259
+Brightness Down Little,BTTPredefinedActionBrightnessDownLittle,260
+Brightness External Up Little,BTTPredefinedActionBrightnessExternalUpLittle,261
+Brightness External Down Little,BTTPredefinedActionBrightnessExternalDownLittle,262
+Take Screenshot Or Video,BTTPredefinedActionTakeScreenshotOrVideo,263
+Keyboard Shortcut,BTTPredefinedActionKeyboardShortcut,264
+Hide Menubar Extras,BTTPredefinedActionHideMenubarExtras,265
+Toggle Mirroring,BTTPredefinedActionToggleMirroring,266
+Move All Windows To Mouse Display,BTTPredefinedActionMoveAllWindowsToMouseDisplay,267
+Restore Saved Window Layout,BTTPredefinedActionRestoreSavedWindowLayout,268
+Save Current Window Layout,BTTPredefinedActionSaveCurrentWindowLayout,269
+Restore Current Window Layout,BTTPredefinedActionRestoreCurrentWindowLayout,270
+Connect MIDI Device,BTTPredefinedActionConnectMIDIDevice,271
+Scroll,BTTPredefinedActionScroll,272
+Show Custom Context Menu,BTTPredefinedActionShowCustomContextMenu,273
+Connect Bluetooth Device,BTTPredefinedActionConnectBluetoothDevice,274
+Disconnect Bluetooth Device,BTTPredefinedActionDisconnectBluetoothDevice,275
+Toggle Bluetooth Device,BTTPredefinedActionToggleBluetoothDevice,276
+Enable Bluetooth,BTTPredefinedActionEnableBluetooth,277
+Disable Bluetooth,BTTPredefinedActionDisableBluetooth,278
+Toggle Bluetooth,BTTPredefinedActionToggleBluetooth,279
+Plugin,BTTPredefinedActionPlugin,280
+Run Core JavaScript,BTTPredefinedActionRunCoreJavaScript,281
