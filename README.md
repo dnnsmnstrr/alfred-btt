@@ -9,6 +9,8 @@ Description: `Run named triggers and actions in BetterTouchTool`
 This workflow uses the scripting interface of BetterTouchTool to allow searching and running named triggers or actions within BTT.
 
 To get the list of named triggers, it uses the get_triggers function, which is available starting at version 4.034 of BTT.
+
+Make sure to allow external scripting in the BTT settings under "Scripting BTT" and configure the workflow with your shared secret if you have it set.
 ```
 
 ### Tips
